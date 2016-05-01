@@ -53,6 +53,10 @@ p, h3 {
 	background-color: #000;
 }
 
+.menu div p, h3 {
+	border: 1px solid white;
+}
+
 .menu div p.description {
 	padding-top: 35px;
 }
